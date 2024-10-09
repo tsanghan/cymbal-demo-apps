@@ -28,4 +28,5 @@ resources:
 - recommendationservice.yaml
 - shippingservice.yaml
 - httproute.yaml
+- httproute-redirect.yaml
 - reference-grant.yaml
