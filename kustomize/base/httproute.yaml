@@ -7,6 +7,7 @@ spec:
   parentRefs:
   - name: envoyproxy
     namespace: demoapp-gw
+    sectionName: https
   hostnames:
   - "cymbal.sctp-sandbox.com"
   rules:
